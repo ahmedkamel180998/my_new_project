@@ -1,1 +1,1 @@
-![Git Cheat sheet](/cheat-sheet.png)
+![Git Cheat sheet](./cheat-sheet.png)
